@@ -1,0 +1,15 @@
+Origin: Talon's APT Repo for Termux
+Label: TAPT
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 armhf arm arm64
+Components: main dev
+Description: The software repo for Talon
+Date: Fri, 11 Aug 2023 18:54:22 +0000
+MD5Sum:
+ 10f08a961c723b0ae9c14bab2fb368b3 458 main/binary-amd64/Packages
+SHA1:
+ 0e65e952488554b7108c0c1e62f5077818c2ae25 458 main/binary-amd64/Packages
+SHA256:
+ 196b565795c766e258bf8214b6a98523c1989866dbccfb57dc42d604c56a8fc4 458 main/binary-amd64/Packages

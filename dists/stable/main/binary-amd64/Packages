@@ -1,0 +1,13 @@
+Package: hello-world
+Version: 0.0.1
+Architecture: amd64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: /data/data/com.termux/files/usr/share/repo/apt-repo/pool/main/hello-world_0.0.1-1_amd64.deb
+Size: 2344
+MD5sum: 0723a8ed91664345798fe435d7cb41fa
+SHA1: 776c10b256068c43131e6500ab4ca9c98d4ab2bf
+SHA256: 34f3e5b84b8d7c3108d7abe23abf328b7c60848d3131d4ed78e837cc7783169a
+Homepage: http://example.com
+Description: A program that prints hello
+

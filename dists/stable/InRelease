@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Talon's APT Repo for Termux
+Label: TAPT
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 armhf arm arm64
+Components: main dev
+Description: The software repo for Talon
+Date: Fri, 11 Aug 2023 18:54:22 +0000
+MD5Sum:
+ 10f08a961c723b0ae9c14bab2fb368b3 458 main/binary-amd64/Packages
+SHA1:
+ 0e65e952488554b7108c0c1e62f5077818c2ae25 458 main/binary-amd64/Packages
+SHA256:
+ 196b565795c766e258bf8214b6a98523c1989866dbccfb57dc42d604c56a8fc4 458 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCAA1FiEEl+phTQ4CybOcM6t/px/JA0ZqoNsFAmTWho8XHHRhc2tmb3Jj
+ZTA2NEBnbWFpbC5jb20ACgkQpx/JA0ZqoNuGuhAAoYBXFt7mi3nq5MboAGFn/xA8
+j04FCJyDJ0Q1vG0aT78dsyygqJjytgjZVzzTbfeg6dWKRvBr+mHZw4/n/nDFVwGy
+9F/anlysBdASeIQylIuAEU/Vi+eFKW1e43tb4t8BwPFYZJ91Z7yfCw2CCbd8LQDc
+Tm5v53QtQHIWN6rx9ZAihqF6ym78J0buhJn1TAJeiOhwxM+4WTXdrmzuSCr/TEdH
+KZHf1q+xmAxWu0ouTOhT0PpLx+8Fixf9f8q+RncNLpp/bZXrAZrvMQYTTjJf+/s2
+0EZiap/QudtsMYJXDtZRbzcCXe6UpUbHGoCoV+fwNpMKQDnCztwmFWYuO6jL806e
+shbizRO7gIxDEgKGmIrPQQILzh6TD6uEUQUOPvP7kSbiXA7Q3MsFP+vnfIWExXk/
+nfjZ6alBvE5gPc3fi2kBD/w84rflrQcgUfYvsgEds3CMv7rQwbwdXRgU2AGD3e97
+W5AEVniaWl02Gr4UWCCcI8IU9PSIKEVrQbZ/mvyfLcCjhaZmAXymTJSQBWBj5xKP
+ZHjJATo5X8i6s5q8R86IO2yUkKmWCNVCqUumZTWPW6aiyBexcyqW7zUM8cYYvxKg
+NNJ+x81NzLB90UwJB2Hm5QUe9Hi1dYNL8/vEi/9qh3ZNKMDU89TVKzuO28OLuu6Y
+B8mih2txm+VjuVZiZrU=
+=J/RM
+-----END PGP SIGNATURE-----
